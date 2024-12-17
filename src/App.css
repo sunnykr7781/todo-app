@@ -1,0 +1,57 @@
+*{
+  margin: 0vh;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgba(227, 205, 177, 0.789);
+  text-transform: capitalize;
+}
+.flex{
+  display: flex;
+}
+.form{
+  margin-left: 24vw;
+  margin-top: 1.4vh;
+  margin-right: 8vw;
+  
+}
+input{
+  padding: 6px;
+  border: 1.6px solid black;
+  margin-right: .25vw;
+}
+.form > button{
+  padding: 4px;
+  border-radius: 24%;
+}
+.main{
+  margin-left: 24vw;
+  margin-top: 16vh;
+  font-size: 2.4vw;
+  font-weight: 600;
+}
+.mn{
+  margin-top: -2.6vw;
+}
+.mn h2{
+  font-size: 2.2vw;
+  font-weight: 600;
+  margin-bottom: 1.4vh;
+
+}
+button{
+  padding: 4px;
+  border: 1px solid black;
+  margin-right: 1.6px;
+  border-radius: 4px;
+}
+.mn input{
+  text-transform: uppercase;
+}
+h5{
+  position: absolute;
+  top: 2%;
+  left: 48%;
+  transform: translateX(-50%);
+  font-size: 3vw;
+
+}
